@@ -1,0 +1,16 @@
+<svg width="760" height="140" viewBox="0 0 760 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="120" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6D28D9"/>
+      <stop offset="1" stop-color="#3B82F6"/>
+    </linearGradient>
+  </defs>
+  <rect x="10" y="10" width="120" height="120" rx="28" fill="url(#bg)"/>
+  <rect x="34" y="38" width="72" height="64" rx="10" fill="#ffffff"/>
+  <rect x="42" y="48" width="32" height="6" rx="3" fill="#6D28D9"/>
+  <rect x="42" y="60" width="56" height="6" rx="3" fill="#E2E8F0"/>
+  <rect x="42" y="78" width="56" height="16" rx="6" fill="#3B82F6"/>
+  <path d="M62 85l6 6 12-12" stroke="#ffffff" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="152" y="88" font-family="Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#1e1b4b">Checkout<tspan fill="#6D28D9">Canvas</tspan></text>
+  <text x="154" y="118" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#64748b">Design your checkout, your way.</text>
+</svg>

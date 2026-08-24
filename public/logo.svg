@@ -1,0 +1,21 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6D28D9"/>
+      <stop offset="1" stop-color="#3B82F6"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <!-- canvas / checkout card -->
+  <rect x="116" y="132" width="280" height="248" rx="28" fill="#ffffff"/>
+  <!-- paint swatch stripes -->
+  <rect x="148" y="168" width="120" height="18" rx="9" fill="#6D28D9" opacity="0.85"/>
+  <rect x="148" y="204" width="216" height="18" rx="9" fill="#E2E8F0"/>
+  <rect x="148" y="240" width="216" height="18" rx="9" fill="#E2E8F0"/>
+  <!-- pay button with check -->
+  <rect x="148" y="288" width="216" height="56" rx="16" fill="#3B82F6"/>
+  <path d="M222 316l22 22 46-46" stroke="#ffffff" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- brush accent -->
+  <circle cx="396" cy="132" r="40" fill="#F59E0B"/>
+  <path d="M368 160c18-6 34-22 40-40l20 20c-6 18-22 34-40 40l-20-20z" fill="#ffffff" opacity="0.9"/>
+</svg>
